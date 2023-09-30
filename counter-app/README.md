@@ -1,8 +1,14 @@
-# React + Vite
+Project Counter App
+To practice you skills
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Step 1
+Set up your project
+To get started, create a new React project using your preferred method. You can use npm create vite@latest or a similar tool to set up your project.
 
-Currently, two official plugins are available:
+Step 2
+Create a Counter component
+Create a new file called Counter.js and create a functional component inside it. Inside the component, use the useState hook to create a count state variable and initialize it to 0. Render the count variable inside a div element.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Step 3
+Add increment and decrement buttons
+Add two buttons to your component, one to increment the count variable and one to decrement it. Use the onClick event to update the count variable using the setCount function returned by useState.
