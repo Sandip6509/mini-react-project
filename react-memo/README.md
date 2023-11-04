@@ -9,8 +9,8 @@ App or your preferred method.
 Step 2: Install Tailwind CSS
 
 - Add the paths to all of your template files in your tailwind.config.js file.
-Add the paths to all of your template files in your tailwind.config.js file.
-Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
+- Add the paths to all of your template files in your tailwind.config.js file.
+- Add the @tailwind directives for each of Tailwind’s layers to your ./src/index.css file.
 
 Step 3: Create a Parent Component
 
